@@ -5,9 +5,7 @@ Analysing Sales table with SQL
 In this project I'm going to use Sales dataset consisting of customer, salesdate, amount and Geoid to practice SQL commands.
 
 ### Technologies
-MySQL workbench
+- MySQL workbench
 
 ### Documentation
-This dataset is from the Awesome Chocolates Dataset (Chandoo.org)
-
-Data Set
+This dataset is from the Awesome Chocolates Dataset (Chandoo.org).
