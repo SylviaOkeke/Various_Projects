@@ -8,4 +8,5 @@ In this project I used Customers dataset consisting of inventory, invoicing, sto
 - MySQL workbench
 
 ### Documentation
-This dataset is from the Complete SQL Mastery Course (Code with Mosh).
+This dataset is from the <i>Complete SQL Mastery</i> Course (Code with Mosh).<br>
+[Data set](https://github.com/SylviaOkeke/Various_Projects/blob/main/SQL/create-databases.sql)
