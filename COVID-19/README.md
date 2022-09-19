@@ -18,7 +18,7 @@ In this project I'm going to use COVID-19 dataset consisting of data-related cum
 - NumPy, Pandas, Matplotlib, Plotly
 
 ## Documentation
-[Data Set](https://bit.ly/3R0yQGY) manipulated data from COVID-19 global dataset kaggle
+[Data Set](https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv)
 
 ## Table of Contents in the Notebook
 
