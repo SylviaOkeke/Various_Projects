@@ -18,7 +18,7 @@ In this project I'm going to use COVID-19 dataset consisting of data-related cum
 - NumPy, Pandas, Matplotlib, Plotly
 
 ## Documentation
-[Data Set](https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv)
+[Data Set](https://docs.google.com/spreadsheets/d/154d6CcO9-q_mlE7_YjWpzmq-Cu7Z4p6YgAfeybwtcCE/edit#gid=739471301)
 
 ## Table of Contents in the Notebook
 
